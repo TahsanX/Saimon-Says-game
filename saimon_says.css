@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+.btns{
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 4px;
+}
+.confirm{
+    height: 35px;
+    width: 75px;
+    background-color: yellow;
+    border: 1px solid yellow;
+    border-radius: 50%;
+}
+.confirm:focus{
+    background-color: red;
+}
+.btns.red{
+    background-color: red;
+}
+.btns.green{
+    background-color: green;
+}
+.btns.blue{
+    background-color: blue;
+}
+.btns.purple{
+    background-color: purple;
+}
